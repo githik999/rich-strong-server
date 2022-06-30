@@ -1,0 +1,10 @@
+[package]
+name = "rich-strong-server"
+version = "0.1.2"
+edition = "2021"
+description = "the server side of rich strong socks5 proxy"
+license = "GPL-3.0"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rich-strong-lib = "0.1.0"
